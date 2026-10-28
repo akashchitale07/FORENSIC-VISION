@@ -1,0 +1,8 @@
+{
+  "name": "Remix FORENSIC VISION — Digital Media Forensics Platform",
+  "description": "Professional digital media forensics workbench for image and video authentication, metadata analysis, error level analysis (ELA), video frame extraction, scene cut detection, steganography inspection, watermark verification, and chain-of-custody reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
